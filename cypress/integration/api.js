@@ -34,7 +34,7 @@ const ITEMPUT = {
             "name": "string"
         }
     ],
-    "status": "unavailable"
+    "status": "available"
 }
 
 it('Post test', function () {
@@ -49,7 +49,6 @@ it('post test1', () => {
             expect(response.body).to.have.property('id', 20)
         })
     })
-
 })
 it('GET test', () => {
     cy.request(URL + '/20').then((response) => {

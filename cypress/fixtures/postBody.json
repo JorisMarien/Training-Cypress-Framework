@@ -1,18 +1,18 @@
 {
     "id": 25,
     "category": {
-      "id": 0,
-      "name": "string"
+        "id": 0,
+        "name": "dog"
     },
     "name": "doggieTail",
     "photoUrls": [
-      "string"
+        "string"
     ],
     "tags": [
-      {
-        "id": 0,
-        "name": "string"
-      }
+        {
+            "id": 0,
+            "name": "string"
+        }
     ],
     "status": "available"
-  }
+}
