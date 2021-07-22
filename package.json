@@ -19,5 +19,8 @@
   "homepage": "https://github.com/JorisMarien/Training-Cypress-Framework#readme",
   "dependencies": {
     "cypress": "^7.7.0"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
   }
 }
